@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Lykeion_preview/static/css/main.54b81e15.chunk.css",
+    "main.js": "/Lykeion_preview/static/js/main.27e8f4dc.chunk.js",
+    "main.js.map": "/Lykeion_preview/static/js/main.27e8f4dc.chunk.js.map",
+    "runtime-main.js": "/Lykeion_preview/static/js/runtime-main.8e135558.js",
+    "runtime-main.js.map": "/Lykeion_preview/static/js/runtime-main.8e135558.js.map",
+    "static/js/2.554b1aea.chunk.js": "/Lykeion_preview/static/js/2.554b1aea.chunk.js",
+    "static/js/2.554b1aea.chunk.js.map": "/Lykeion_preview/static/js/2.554b1aea.chunk.js.map",
+    "index.html": "/Lykeion_preview/index.html",
+    "precache-manifest.44e02270eacd04fcbdccf758a80ff5f2.js": "/Lykeion_preview/precache-manifest.44e02270eacd04fcbdccf758a80ff5f2.js",
+    "service-worker.js": "/Lykeion_preview/service-worker.js",
+    "static/css/main.54b81e15.chunk.css.map": "/Lykeion_preview/static/css/main.54b81e15.chunk.css.map",
+    "static/js/2.554b1aea.chunk.js.LICENSE.txt": "/Lykeion_preview/static/js/2.554b1aea.chunk.js.LICENSE.txt",
+    "static/media/EdmundHusserl.mp4": "/Lykeion_preview/static/media/EdmundHusserl.50f5f0f9.mp4",
+    "static/media/JeremyBentham.jpg": "/Lykeion_preview/static/media/JeremyBentham.97495309.jpg",
+    "static/media/MichelFoucault.mp4": "/Lykeion_preview/static/media/MichelFoucault.b9d88a54.mp4",
+    "static/media/aesthetics.jpg": "/Lykeion_preview/static/media/aesthetics.203b2a6b.jpg",
+    "static/media/bg1.svg": "/Lykeion_preview/static/media/bg1.3d238483.svg",
+    "static/media/epistemology.jpg": "/Lykeion_preview/static/media/epistemology.7004a6da.jpg",
+    "static/media/ethics.jpg": "/Lykeion_preview/static/media/ethics.a5ec5464.jpg",
+    "static/media/loading.svg": "/Lykeion_preview/static/media/loading.c5590569.svg",
+    "static/media/lyceum.svg": "/Lykeion_preview/static/media/lyceum.d2e101a6.svg",
+    "static/media/metaphysics.jpg": "/Lykeion_preview/static/media/metaphysics.0fbab2f2.jpg",
+    "static/media/metaphysics_introduction.jpg": "/Lykeion_preview/static/media/metaphysics_introduction.8297a591.jpg",
+    "static/media/philosophyofmind.jpg": "/Lykeion_preview/static/media/philosophyofmind.e313145f.jpg",
+    "static/media/postmodernism.jpg": "/Lykeion_preview/static/media/postmodernism.aea662e8.jpg",
+    "static/media/sartre.mp4": "/Lykeion_preview/static/media/sartre.08238ce7.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e135558.js",
+    "static/js/2.554b1aea.chunk.js",
+    "static/css/main.54b81e15.chunk.css",
+    "static/js/main.27e8f4dc.chunk.js"
+  ]
+}
